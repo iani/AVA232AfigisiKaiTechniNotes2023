@@ -1,0 +1,43 @@
+#+TITLE: Assignment2_230329
+28 Mar 2023 19:46
+
+Γραψετε μια ιστορία βασιζόμενο στν αλληλογραφία μεταξύ δύο προσώπων. Στόχος είναι να δείξετε πως με τον διάλογο αυτό εκφράζονται τα συναισθήματα και οι σκέψεις των δύο ατόμων, ο διαφορετικός ψυχικός τους κόσμος, και πως εξελίσσονται τα συναισθήματα μέσα από την ανταλλαγή των κειμένων στο διάλογο.  Επίσης, θα μπορούσε μια εργασία να περιγράφει την εξέλιξη των δύο προσώπων σε διαφορετικές φάσεις ζωής όταν τυχαίνει αυτά να ξαναρχίζουν τον δάλογο αναμεταξύ τους.
+Πλαισιώστε τον διάλογο με περιγραφές των περιστάσεων και των αντιδράσεων των χαρακτήρωον - τι ένοιωσαν, τι έκαναν.  Έτσι προχωρά η εργασία ενα σκαλοπάτι παραπάνω σε βάθος και σε απαιτήσεις περιεχομένου.
+
+- Μπορείτε να εξερευνήσετε η δυνατότητα του έμμεσου λόγου, δηλαδή, του υπονοούμενου, της ειρωνίας κλπ.
+- Μπορείτε να εξερευνήσετεί την περίπτωση της παρεξήγησης στην επικοινωνία, ή την παρεμβολή εξωτερικών περιστάσεων σαν εμπόδια ή σαν παράγοντες που επηρεάζουν τον διάλογο.
+
+Σαν παραδείγματα μπορείτε να δείτε να δειτε μυθιστορήματα αλληλογραφικά (epistolary novels) του 18ου αιώνα, όπως περιγράφονται εδώ:
+https://www.arjonline.org/papers/arjel/v3-i1/16.pdf.  Χαρακατηριστικό παράδειγμα το μυθιστόρμημα του  Jean-Jacques Rousseau, "Julie ou la Nouvelle Héloïse"
+https://www.wikiwand.com/fr/Julie_ou_la_Nouvelle_H%C3%A9lo%C3%AFse.
+
+Ένα πιο σύντομο παράδειγμα που μπορεί να αποτελέσει αρχή είναι τα ποιήματα που ανταλλάσσουν τα δύο κυρίως πρόσωπα στην ιστορία "Ιζουτσου" ("Κεφαλοπήγαδο")
+
+Απόσπασμα στα αγγλικά (Απο Wikipedia):
+
+#+begin_quote
+A boy and a girl knew each other from early childhood. They were good friends and one of their games was to see who was taller by measuring each other against the local well. As they grew older, they began to feel more self-conscious in each other's company and they drifted apart, although they continued to love each other.
+
+The girl's parents offered to find her a husband, but she declined as she still had feelings for the boy.
+
+The boy eventually composes a tanka:
+
+筒井筒　井筒にかけし　まろがたけ　生いにけらしな　妹見ざる間に
+The wooden frame [of the well]... I was shorter than the frame [when we last compared our heights], but I have outgrown it in your absence.
+The girl replies:
+
+くらべこし　ふりわけ髪も　肩過ぎぬ　君ならずして　誰かあぐべき
+We compared the lengths of our hair also, but my hair has grown past my shoulders. If not you, who will be there to tie it up for me?
+
+So it was that they were married.
+
+However, the man later fell in love with another woman, who lived behind Mount Tatsuta and he took to making visits to this woman's house. After many visits, the affair could no longer be kept a secret; but his wife made no protest. He concluded that his wife had herself fallen in love with another man.
+
+One stormy night, he was just setting out on one of these visits, when he decided to turn back to find out the identity of his wife's lover. Peeping into the house, he saw that his wife was all alone. Unaware that he was watching, she was applying her make-up and composing a tanka:
+
+風吹けば　おきつ白波　龍田山　夜半にや君が　一人越ゆらん
+The sea near Mount Tatsuta becomes rough when the wind is so gusty. That my husband should be climbing Tatsuta on such a stormy night! [I'm anxious about my husband.]
+He realised then how much he was loved and never went back to the other woman.
+#+end_quote
+
+Στους διαλόγους αυτούς, οι πρωταγωνιστές επικοινωνουν με έμμεσο τρόπο χρησιμοποιώντας μεταφορικό ποιητικό λόγο.  Πίσω από αυτά που γράφουν τα ποιήματα κρύβονται άλλα νοήματα.  Άσκηση: Βρήτε και εξηγήστε τι θέλουν να πούν τα ποιήματα και πως το λένε.
